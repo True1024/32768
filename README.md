@@ -1,7 +1,7 @@
 # 32768
-A small clone of [2048], based on [Gabriele Cirulli's 2048](http://git.io/2048) (also a clone).
+A small clone of [32768](https://gold5472.github.io/32768), based on [Gabriele Cirulli's 2048](http://git.io/2048) (also a clone).
 
-Made just for fun. [Play it here!](http://nikeix.github.io/32768)
+Made just for fun. [Play it here!](http://thereal23.github.io/32768)
 
 ### Screenshot
 
@@ -13,4 +13,4 @@ Never got there, just little cheating :smile:
 
 
 ## Donations
-Please help the creator of the original game 2048,Gabriele Cirulli!  BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. 
+Please help the creator of the original game 2048, Gabriele Cirulli!  BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. 
